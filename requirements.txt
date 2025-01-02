@@ -10,3 +10,11 @@ sse_starlette
 bs4
 pypdf
 chromadb 
+faiss-cpu
+groq
+cassio
+beautifulsoup4
+langchain-groq
+wikipedia
+arxiv
+langchainhub
